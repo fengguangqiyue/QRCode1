@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\moliying.Android\oldClass\QRCode1\app\libs\core.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="E:\moliying.Android\oldClass\QRCode1\app\build\intermediates\pre-dexed\debug\core_7ae736c60a7f7f07aa671d8c65508b12ab66d47d.jar" />
+    </item>
+    <item
+        jar="E:\moliying.Android\oldClass\QRCode1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0bc16da412e6cc2becbb1446145844f0145e0e18">
+        <dex dex="E:\moliying.Android\oldClass\QRCode1\app\build\intermediates\pre-dexed\debug\instant-run_d8ea0b6542218724549d66557b6b125eea43dcb5.jar" />
+    </item>
+    <item
+        jar="E:\moliying.Android\oldClass\QRCode1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="16f56d1d55510e837f9d3cb4db54d68edb73d264">
+        <dex dex="E:\moliying.Android\oldClass\QRCode1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7dd913c13b253a11947f9254796b6d10aed55f22.jar" />
+    </item>
+
+</items>
